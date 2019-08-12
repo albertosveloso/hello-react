@@ -7,4 +7,3 @@ const elemento = document.getElementById('root')
 ReactDOM.render(
     <Primeiro/>
     ,elemento)
-
